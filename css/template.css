@@ -1,3 +1,14 @@
 .logoH{
     height: 114px;
 }
+.bg{
+    background-image: url("/image/img-1.jpg") ;
+    height: 500px;
+    background-size: cover;
+}
+.block{
+   
+    background-color: black;
+    height: 500px;
+    opacity: 0.5;
+}
